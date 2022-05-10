@@ -1,0 +1,13 @@
+If you are working with a deep learning project,
+the greatest bottleneck could be the lack of computational resources (e.g a GPU).
+But with Google Colaboratory (Google Colab or Colab in short),
+now you have the freedom to use a GPU at your disposal.
+Let’s see how you can clone your GitHub repository into the Google Drive
+and run your code on top of a GPU provided by Google Colab.
+Here are some tips before you get in to Colab.
+First, you have to get your scripts ready.
+For scripting, you can use an IDE such as PyCharm,
+Visual Code or Spyder.
+When scripting,
+it is a good practice to properly space the codes
+and add comments whenever it is necessary.
